@@ -11,11 +11,6 @@ bar*
 testing*
 try*
 
-# add you EMAIL_HOST_USER, EMAIL_HOST_PASSWORD
-# in this file in the root folder ... for more detail see the setting.py ...ending file content
-email_host_details.py
-secret_details.py
-
 # video and image editing ... etc
 camtasia
 
